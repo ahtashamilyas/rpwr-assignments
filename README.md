@@ -19,7 +19,7 @@ An intelligent collision avoidance system that enables autonomous navigation wit
 - **Persistent Obstacle Tracking**: Obstacles remain visible for several seconds to aid in navigation planning
 
 **Demo Video:**
-![Lane Keep Assistant](Videos/LanekeepingAssistant.mp4)
+![Lane Keep Assistant](Videos/LinekeepingAssistant.gif)
 
 ---
 
@@ -34,7 +34,7 @@ A high-performance laser scan processing system designed for 40Hz real-time oper
 - **🚫 Pole Reflection Removal**: Filters out false positive readings from reflective surfaces
 
 **Demo Video:**
-![Real-Time Laser Scan Filtering](/Videos/laserScan.mp4)
+![Real-Time Laser Scan Filtering](/Videos/laserScan.gif)
 
 ---
 
@@ -54,7 +54,7 @@ A comprehensive navigation and localization system implementing AMCL (Adaptive M
 4. Markers are created at absolute positions to represent detected obstacles
 
 **Demo Video:**
-![Localisation Challenge](Videos/Localization.mp4)
+![Localisation Challenge](Videos/Localization.gif)
 
 ---
 
@@ -73,7 +73,7 @@ An intelligent door detection and navigation system that enables autonomous pass
 - Dynamic obstacle detection markers
 
 **Demo Video:**
-![Knock Knock Challenge](Videos/KnockKnock.mp4)
+![Knock Knock Challenge](Videos/KnockKnock.gif)
 
 ---
 
